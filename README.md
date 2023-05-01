@@ -1,4 +1,4 @@
-# COP3502
+# COP3502 Failfish Assignment 2
 ## Overview
 This assignment is intended to teach you to use a circular doubly-linked list and its queue.
 ## Details
