@@ -14,9 +14,9 @@ The farmer has:
 - 𝐺 groups of Failfish that they've captured. Groups of Failfish are called Failgroups. They were called Failschools once, but small monster scholars determined that Failfish are unable to learn.
    - Each Failgroup𝑔𝑖has𝑛𝑖Failfish in it, with 𝑛𝑖≥ 2.Note that𝑖is thepond number–the Failfish don’thave to be in ponds1. . 𝐺.
    - Each Failfish in a Failgroup is branded with a sequence number, from 1 to 𝑛𝑖.
-     - ( Modern small monster farming methods being humane, the branding is done with aparticularly waterproof marker. No Failfish are harmed during modern Failfish farming. (Except when they get eaten.))
+     - Modern small monster farming methods being humane, the branding is done with aparticularly waterproof marker. No Failfish are harmed during modern Failfish farming. (Except when they get eaten.)
      
 The Meal, First Course:
    ...
 
-Find our email here: https://www.youtube.com/@CodingAssignmentTutor/about
+Request the full code via EMail, get our email here: https://www.youtube.com/@CodingAssignmentTutor/about
